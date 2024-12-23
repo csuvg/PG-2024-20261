@@ -1,0 +1,201 @@
+ESPAÑOL,RESPUESTA,MAX_LENGTH,LEVENSHTEIN_DISTANCE,PERCENTAGE_DIFFERENCE
+Hoy los estudiantes están muy ocupados.,Hoy los estudiantes están muy ocupados.,39,0,0.0
+¿Dónde trabajas?,¿Dónde trabajas?,16,0,0.0
+Espero que hoy no haya tráfico.,Espero que hoy no haya tráfico.,31,0,0.0
+Hay tráfico.,Hay tráfico.,12,0,0.0
+Llegué tarde porque había tráfico.,Llegué tarde porque había tráfico.,34,0,0.0
+Fui temprano para evitar el tráfico.,Fui temprano para evitar el tráfico.,36,0,0.0
+¿Tienes una emergencia?,¿Tienes una emergencia?,23,0,0.0
+Mi mamá cocina muy bien.,Mi mamá cocina muy bien.,24,0,0.0
+Mi hija toca el piano muy bien.,Mi hija toca muy bien el piano.,31,12,38.70967741935484
+La tienda vende pan.,La tienda vende pan.,20,0,0.0
+Ayer el mercado abrió temprano.,Ayer el mercado abrió temprano.,31,0,0.0
+No asistí a la reunión.,No asistí a la reunión.,23,0,0.0
+¿Cuándo llega el profesor?,¿Cuándo llega el profesor?,26,0,0.0
+En la playa había muchos turistas.,En la playa había muchos turistas.,34,0,0.0
+El maestro me regañó.,El maestro me regañó.,21,0,0.0
+Ayer dormí en un hotel.,Ayer dormí en el hotel.,23,2,8.695652173913043
+No uses el teléfono en clase.,No uses tu teléfono en clase.,29,2,6.896551724137931
+¿En cuál universidad estudias?,¿En qué universidad estudias?,30,3,10.0
+Quería ir pero estaba ocupado.,Quise ir pero estaba ocupado.,30,4,13.333333333333334
+Encendí la luz.,Encendí la luz.,15,0,0.0
+¿Cómo funciona la estufa?,¿Cómo funciona la estufa?,25,0,0.0
+Él toca la guitarra muy bien.,Él toca la guitarra muy bien.,29,0,0.0
+Ve al supermercado y compra leche.,Fuiste al supermercado y compraste leche.,41,8,19.51219512195122
+¿Me prestas dinero?,¿Puedo prestarte dinero?,24,7,29.166666666666668
+Espero que no hay ningún problema.,Espero que no haya ningún problema.,35,1,2.857142857142857
+¿Es tuya la muñeca?,¿La muñeca es tuya?,19,12,63.1578947368421
+¿Fuiste ayer al museo?,¿Fuiste al museo ayer?,22,10,45.45454545454545
+La tienda vende zapatos,La tienda vende zapatos.,24,1,4.166666666666666
+Hoy ella se siente bien.,Ella se siente bien hoy.,24,9,37.5
+¿Cuál es tu opinión?,¿Cuál es tu opinión?,20,0,0.0
+¿No te gusta la ensalada?,No me gusta la ensalada.,25,3,12.0
+Lávate las manos antes de comer.,Debes lavarte las manos antes de comer.,39,9,23.076923076923077
+Yo estoy bien.,Estoy muy bien.,15,8,53.333333333333336
+Espero que disfrutes tus vacaciones.,Espero que disfrutes tus vacaciones.,36,0,0.0
+¿Quién es tu amiga?,Tu amiga ha preguntado.,23,19,82.6086956521739
+¿Tu hermana tiene hijos?,¿Tu hermana tiene hijos?,24,0,0.0
+No fui.,No fui.,7,0,0.0
+Ayer fui al hospital.,Fui al hospital ayer.,21,11,52.38095238095239
+Mi madre crompró fruta en el supermercado.,Mi mamá compró frutas en el supermercado.,42,5,11.904761904761903
+Sigue las reglas.,Debes seguir las reglas.,24,10,41.66666666666667
+Espero que la policía venga pronto.,Espero que la policía venga pronto.,35,0,0.0
+¿Estás cansado?,¿Estás cansado?,15,0,0.0
+Mañana iré a la feria.,Mañana iré a la feria.,22,0,0.0
+¿Qué haces?,¿Qué haces?,11,0,0.0
+¿Viste a tu amigo?,¿Conociste a mi amigo?,22,7,31.818181818181817
+¿Viste al médico?,¿Fuiste al médico?,18,2,11.11111111111111
+Ayer fuiste a la clínica.,Fuiste a la clínica ayer.,25,11,44.0
+Él estudia medicina.,Él estudia medicina.,20,0,0.0
+Lee una revista mientras esperas.,Estaba leyendo una revista mientras esperaba.,45,14,31.11111111111111
+¿A qué hora comienza la clase?,¿A qué hora empieza la clase?,30,4,13.333333333333334
+¿Ya entregaste tu tarea?,¿Ya entregaste la tarea?,24,2,8.333333333333332
+Mañana iré al supermercado.,Mañana iré al supermercado.,27,0,0.0
+A ella no le gusta la lluvia.,A ella no le gusta la lluvia.,29,0,0.0
+¿Qué cocinas?,¿Qué cocinaste?,15,2,13.333333333333334
+Él cocinó el desayuno.,El desayuno lo cocinó él.,25,19,76.0
+¿Cuál deporte practicas?,¿Qué deporte practicas?,24,3,12.5
+¿Viste a tu amiga en la florería?,¿Viste a tu amiga en la florería?,33,0,0.0
+A ella no le gusta el calor.,Ella no le gusta el calor.,28,3,10.714285714285714
+Cocinaremos la cena.,Nosotros cocinaremos la cena.,29,10,34.48275862068966
+Mi hijo es sordo y yo soy oyente.,Tengo un hijo sordo y yo soy oyente.,36,11,30.555555555555557
+¿Es tuya la casa?,¿Es tu casa?,17,5,29.411764705882355
+¿Hay fiesta hoy?,¿Hay fiesta hoy?,16,0,0.0
+La biblioteca cierra a medianoche.,La biblioteca cierra a medianoche.,34,0,0.0
+¿Dónde estudias?,¿Dónde estudias?,16,0,0.0
+No encuentro mis lentes.,No encontré los lentes.,24,5,20.833333333333336
+Revisa tus notas antes del examen.,Necesito revisar mis notas antes del examen.,44,13,29.545454545454547
+No me gusta el fútbol.,No me gusta el fútbol.,22,0,0.0
+¿Cómo se llama tu novio?,¿Cómo se llama tu novio?,24,0,0.0
+El colegio está cerca del hospital.,El colegio está cerca del hospital.,35,0,0.0
+Ayer él fue al hospital.,Él fue al hospital ayer.,24,11,45.83333333333333
+¿Dónde está mi libro?,¿Dónde está mi libro?,21,0,0.0
+Me gusta viajar pero me da miedo volar.,Me gusta viajar pero tengo miedo de volar.,42,7,16.666666666666664
+Quiero tener más tiempo libre.,Quiero tener más tiempo libre.,30,0,0.0
+¿Cuánto cuesta la entrada?,¿Cuánto cuesta la entrada?,26,0,0.0
+Mi hermano es muy inteligente.,Mi hermano es muy inteligente.,30,0,0.0
+¿Tomaste agua hoy?,¿Vas a tomar agua hoy?,22,9,40.909090909090914
+Ayer ella preparó la comida.,Ayer ella preparó la comida.,28,0,0.0
+No sé nadar.,No sé nadar.,12,0,0.0
+Mañana veremos una película en el cine.,Mañana nosotros vamos a ver una película en el cine.,52,16,30.76923076923077
+Fuiste al mercado para comprar frutas.,Fuiste al mercado para comprar frutas.,38,0,0.0
+Fui al médico pero no me ayudó.,Fui al médico pero él no me ayudó.,34,3,8.823529411764707
+¿El carro ya llegó?,¿El carro ha llegado?,21,4,19.047619047619047
+No podré asistir a la reunión.,No puedo asistir a la reunión.,30,4,13.333333333333334
+¿Cómo se llama tu perro?,¿Cuál es el nombre de tu perro?,31,15,48.38709677419355
+No me gusta levantarme temprano.,No me gusta levantarme temprano.,32,0,0.0
+¿Cómo se llama el restaurante?,¿Cuál es el nombre del restaurante?,35,13,37.142857142857146
+Voy a la clínica.,Voy a la clínica.,17,0,0.0
+¿Te gusta el parque?,¿Te gusta el parque?,20,0,0.0
+¿Hoy qué almorzaste?,¿Qué almorzaste hoy?,20,9,45.0
+El juego es muy divertido.,El juego es muy divertido.,26,0,0.0
+¿Encontraste el cuaderno?,¿Encontraste el cuaderno?,25,0,0.0
+¿Estás cerca la panadería?,¿Está cerca la panadería?,26,1,3.8461538461538463
+Quiero cantar pero no puedo.,Quiero cantar pero no puedo.,28,0,0.0
+Haz una lista para no olvidar nada.,Haz la lista para que no olvides nada.,38,8,21.052631578947366
+Después de comer lavo los platos.,Después de comer yo lavo los platos.,36,3,8.333333333333332
+¿Cómo estuvo tu comida?,¿Cómo está tu comida?,23,3,13.043478260869565
+Quería ir al cine pero había tráfico.,Quiero ir al cine pero hay mucho tráfico.,41,10,24.390243902439025
+Hoy el cine está cerrado.,Hoy el cine está cerrado.,25,0,0.0
+Ayer me llamó mi abuelo.,Ayer llamé a mi abuelo.,24,6,25.0
+Espero que encuentres tu teléfono.,Espero (que) encuentres tu teléfono.,36,2,5.555555555555555
+No escucho música porque soy sordo.,No escucho música porque soy sordo.,35,0,0.0
+No salí porque tenía miedo.,No salí porque tenía miedo.,27,0,0.0
+Los domingos María recibe clases de canto.,Domingos María recibe clases de canto.,42,5,11.904761904761903
+Cuando sea verano iré a la playa.,Ir a la playa en verano.,33,24,72.72727272727273
+¿Te sientes bien?,¿Te sientes bien?,17,0,0.0
+Cocinamos la cena.,Nosotros cocinamos la cena.,27,10,37.03703703703704
+Es importante saber matemáticas.,Es importante saber matemáticas.,32,0,0.0
+Me gusta la comida guatemalteca.,Me gusta la comida guatemalteca.,32,0,0.0
+Mi abuelo vendrá pronto.,Mi hijo va a ser padre pronto.,30,15,50.0
+No hice la tarea porque se me olvidó.,No hice la tarea porque me olvidé.,37,4,10.81081081081081
+Harás la tarea.,Harás tu tarea.,15,2,13.333333333333334
+El estudiante hizo la tarea.,El estudiante hizo la tarea.,28,0,0.0
+Todos los días ella practica yoga.,Ella práctica yoga todos los días.,34,29,85.29411764705883
+Eres buen doctor pero no eres amable.,Eres un doctor muy amable.,37,14,37.83783783783784
+El jefe está enojado.,El jefe está enojado.,21,0,0.0
+¿Llamaste a los bomberos?,¿Llamaste a los bomberos?,25,0,0.0
+Habla despacio por favor.,Habla despacio por favor.,25,0,0.0
+¿Tu padre trabaja?,¿Trabaja tu padre?,18,12,66.66666666666666
+El gobierno no nos apoya.,El gobierno no nos apoya.,25,0,0.0
+Me mudé.,Cambién mi casa.,16,13,81.25
+No dormí bien porque había mucho ruido.,No pude dormir bien porque había mucho ruido.,45,7,15.555555555555555
+¿Qué vas a hacer esta tarde?,¿Qué vas a hacer hoy en la tarde?,33,7,21.21212121212121
+No conozco a esa persona.,No conozco a esa persona.,25,0,0.0
+¿Dónde naciste?,¿Dónde naciste?,15,0,0.0
+No comí porque no tenía hambre.,No comí porque no tengo hambre.,31,2,6.451612903225806
+¿A qué hora sales del trabajo?,¿A qué hora sales del trabajo?,30,0,0.0
+No me siento bien hoy.,Hoy no me siento bien.,22,9,40.909090909090914
+¿Te sientes bien?,¿Te sientes bien?,17,0,0.0
+Llamé a mi jefe.,Llamé al jefe.,16,3,18.75
+Ayer se perdió mi serpiente.,Ayer perdí la serpiente.,28,7,25.0
+Mañana tengo una cita.,Mañana tengo una cita.,22,0,0.0
+Mi tío vive en una granja.,Mi tío vive en la granja.,26,2,7.6923076923076925
+¿Fuiste al supermercado?,¿Fuiste al supermercado?,24,0,0.0
+¿A cuál aeropuerto fuiste?,¿Cuál aeropuerto visitaste?,27,8,29.629629629629626
+Descansa si te sientes cansado.,Debes descansar si te sientes cansado.,38,7,18.421052631578945
+¿Cómo se llama tu maestra?,¿Cómo se llama tu maestra?,26,0,0.0
+Terminé la tarea.,Terminé la tarea.,17,0,0.0
+¿Dónde estudias?,¿Dónde estudias?,16,0,0.0
+Mañana iré a casa.,Mañana voy a casa.,18,3,16.666666666666664
+Cocinamos el desayuno.,Cocinamos el desayuno.,22,0,0.0
+Te llamé porque necesitaba hablar.,Te llamé porque necesitaba hablar contigo.,42,8,19.047619047619047
+Ayer él leyó el libro.,Ayer él leyó un libro.,22,2,9.090909090909092
+No estudié porque estaba cansado.,No estudié porque estaba cansado.,33,0,0.0
+No hables con extraños.,No entiendes bien.,23,16,69.56521739130434
+Él hizo ejercicio.,Él hizo el ejercicio.,21,3,14.285714285714285
+Después de hacer ejercicio tomo agua.,Después de hacer ejercicio tomo agua.,37,0,0.0
+No sé usar la computadora.,No sé cómo usar la computadora.,31,5,16.129032258064516
+¿Hoy fuiste a la piscina?,¿Fuiste a la piscina hoy?,25,9,36.0
+Llamé a mi amigo para invitarlo.,Llamé a mi amigo para invitarlo.,32,0,0.0
+¿Cuándo aprendiste?,¿Cuándo aprendiste?,19,0,0.0
+Quería ir pero no tenía dinero.,Quería ir pero no tenía dinero.,31,0,0.0
+No como carne.,No como carne.,14,0,0.0
+¿Cuántos libros tienes?,¿Cuántos libros tienes?,23,0,0.0
+Yo no trabajo.,No trabajo.,14,4,28.57142857142857
+Espero que te sientas mejor pronto.,Espero que te sientas mejor pronto.,35,0,0.0
+¿A dónde quieres viajar?,¿Dónde quieres viajar?,24,3,12.5
+Él escucha las noticias en el radio.,Él escucha las noticias en la radio.,36,2,5.555555555555555
+Salí a correr.,Salí a correr.,14,0,0.0
+Mientras cocino escucho música.,Escucho música mientras cocino.,31,26,83.87096774193549
+Fuiste al parque para caminar.,Fuiste al parque para caminar.,30,0,0.0
+No entiendo.,No entiendo.,12,0,0.0
+¿Cuándo es tu cumpleaños?,¿Cuándo es tu cumpleaños?,25,0,0.0
+Ella estudia inglés.,Ella está estudiando inglés.,28,8,28.57142857142857
+Escoge un libro para leer.,Escoge un libro para leer.,26,0,0.0
+Todas las tardes los niños juegan en el parque.,Todos los días los niños juegan en el parque.,47,7,14.893617021276595
+Me gustan los libros de miedo.,Me gustan los libros de miedo.,30,0,0.0
+Los bomberos apagaron al incendio.,Los bomberos apagaron el incendio.,34,1,2.941176470588235
+¿A qué hora es la reunión?,¿A qué hora es la reunión?,26,0,0.0
+No sé tocar el piano.,No sé tocar el piano.,21,0,0.0
+Por favor cuando salgas apaga la luz.,Por favor apaga la luz cuando salgas.,37,20,54.054054054054056
+¿Compraste el libro?,¿Compraste tu libro?,20,2,10.0
+¿Qué quieres?,¿Qué quieres?,13,0,0.0
+¿Visitaste el museo?,¿Visitaste el museo?,20,0,0.0
+No corras en el pasillo.,No corras en el pasillo.,24,0,0.0
+Ayer fuiste al hospital.,Fuiste al hospital.,24,6,25.0
+¿Llamaste a los policías?,¿Llamaste a la policía?,25,3,12.0
+Ayer ella fue al mercado.,Ella fue al mercado ayer.,25,11,44.0
+No me gusta el picante.,No me gusta el picante.,23,0,0.0
+Ayer no fui a la universidad.,Ayer no fui a la universidad.,29,0,0.0
+Tomé clases para aprender inglés.,Tomé clases para aprender inglés.,33,0,0.0
+La cena de anoche estuvo deliciosa.,Anoche cené una deliciosa cena.,35,23,65.71428571428571
+Mi mamá está enferma.,Mi madre está enferma.,22,3,13.636363636363635
+Espero que tengas un buen día.,Espero que tengas un buen día.,30,0,0.0
+¿Es grande la biblioteca?,¿La biblioteca es grande?,25,21,84.0
+Los viernes mis amigos y yo salimos.,Salgo con mis amigos el viernes.,36,20,55.55555555555556
+Compra la entrada antes de ir al cine.,Entré al cine antes de comprar tu entrada.,42,29,69.04761904761905
+¿Hoy comiste pizza?,¿Comiste pizza hoy?,19,9,47.368421052631575
+Ayer él durmió en un hotel.,Ayer él durmió en el hotel.,27,2,7.4074074074074066
+Cocinaremos el desayuno.,Nosotros cocinaremos el desayuno.,33,10,30.303030303030305
+La tienda de ropa tiene descuentos.,La tienda tiene descuentos en ropa.,35,16,45.714285714285715
+Espero que mañana no llueva.,Espero que mañana no llueva.,28,0,0.0
+Mi papá trabaja en un banco.,Mi papá trabaja en el banco.,28,2,7.142857142857142
+Compré medicina para mi mamá.,Compré medicina para mamá.,29,3,10.344827586206897
+¿Él irá a la oficina mañana?,Él va a la oficina mañana.,28,5,17.857142857142858
+¿Tu mamá está en el baño?,¿Está bien tu mamá?,25,16,64.0
+Antes era grande ahora es pequeño.,Antes era grande ahora es pequeño.,34,0,0.0
+Mi mejor amigo vive en otro país.,Mi mejor amigo vive en otro país.,33,0,0.0
+Ellos irán al cine.,Ellos irán al cine.,19,0,0.0
+Desayuna bien antes de ir a trabajar.,Te desayunaste muy bien antes de ir a trabajar.,47,11,23.404255319148938
+La vida de los sordos es muy difícil.,La vida de los sordos es muy difícil.,37,0,0.0

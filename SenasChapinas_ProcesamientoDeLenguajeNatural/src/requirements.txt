@@ -1,0 +1,14 @@
+numpy
+pandas
+csv
+regex
+nltk
+tqdm
+seaborn
+matplotlib
+prettytable
+flask
+openai
+lime
+rapidfuzz
+Levenshtein
